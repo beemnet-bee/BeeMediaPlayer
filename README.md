@@ -1,3 +1,9 @@
+# Run and deploy
+
+This contains everything you need to run the app locally.
+
+View the app on: https://bee-media-player.vercel.app/
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
